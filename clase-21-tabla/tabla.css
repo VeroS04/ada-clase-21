@@ -1,0 +1,29 @@
+.tabla {
+    background-color: blueviolet;
+    width: 50%;
+    border: solid 5px black;
+}
+
+.fila{
+    background-color: aquamarine;
+    width: 30%;
+    border: solid 5px black;
+}
+
+
+.celda{
+    padding: 2%;
+    font-size: 1.5em;
+    background-color: rgb(220, 216, 216);
+    width: 20%;
+    border: solid 5px black;
+}
+
+.celda-color{
+    text-align: center;
+    font-size: 1.8em;
+    background-color: rgb(220, 216, 216);
+    color: rgb(172, 9, 9);
+    border: solid 5px black;
+    
+}
